@@ -24,7 +24,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rspec", "~> 3.2"
   spec.add_development_dependency "codeclimate-test-reporter", "~> 0"
 
-  spec.add_runtime_dependency "json", "~> 1.8"
+  spec.add_runtime_dependency "json", "~> 2.0"
   spec.add_runtime_dependency "faraday", "~> 0.9"
   spec.add_runtime_dependency "faraday-http-cache", "~> 1.3.0"
   spec.add_runtime_dependency "thread_safe", "~> 0.3"
